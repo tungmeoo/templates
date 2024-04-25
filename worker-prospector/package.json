@@ -18,6 +18,6 @@
 	},
 	"dependencies": {
 		"from-xml": "^0.1.7",
-		"hono": "^2.7.1"
+		"hono": "^4.2.7"
 	}
 }
