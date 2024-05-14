@@ -6,7 +6,7 @@
 	"dependencies": {
 		"@craco/craco": "^6.4.0",
 		"@ssttevee/multipart-parser": "^0.1.9",
-		"@testing-library/jest-dom": "^5.15.0",
+		"@testing-library/jest-dom": "^6.0.0",
 		"@testing-library/react": "^11.2.7",
 		"@testing-library/user-event": "^12.8.3",
 		"@types/jest": "^26.0.24",
